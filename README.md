@@ -2,7 +2,7 @@
 
 A list of stat resources for NFTs (Non Fungible Tokens)
 
-[Cryptoslam.io](https://cryptoslam.io)
+[cryptoslam.io](https://cryptoslam.io)
 
 [nftbank.io](https://nftbank.io)
 
