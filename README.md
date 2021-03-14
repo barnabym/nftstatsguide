@@ -8,4 +8,4 @@ A list of stat resources for NFTs (Non Fungible Tokens)
 
 [nonfungible.com](https://nonfungible.com)
 
-[cryptoart.io/](https://cryptoart.io/)
+[cryptoart.io](https://cryptoart.io/)
