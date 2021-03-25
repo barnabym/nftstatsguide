@@ -11,3 +11,5 @@ A list of stat resources for NFTs (Non Fungible Tokens)
 [cryptoart.io](https://cryptoart.io/)
 
 [cryptoartpulse.com](https://cryptoartpulse.com/)
+
+[degendata.io] (https://degendata.io/)
