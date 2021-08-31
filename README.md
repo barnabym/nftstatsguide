@@ -33,10 +33,13 @@ https://nft-stats.com
 @graphprotocol - has graphs of artblocks.io, decentraland, NFTX and more
 
 
-#Twitter Accounts to follow
+Twitter Accounts to follow
 ============================
 
 @Zeneca_33 - a daily report on projects
+
 @mevcollector - alpha leaks
+
 @digirocksnft
+
 @cryptofreaksnft
